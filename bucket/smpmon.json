@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hightemp/smpmon/releases/download/v1.0.0/smpmon_1.0.0_windows_amd64.zip",
+            "bin": [
+                "smpmon.exe"
+            ],
+            "hash": "b175e2d9a061109c63c6f01f1aa9dc846385d1102e1a6b87601e229d71c656df"
+        },
+        "arm64": {
+            "url": "https://github.com/hightemp/smpmon/releases/download/v1.0.0/smpmon_1.0.0_windows_arm64.zip",
+            "bin": [
+                "smpmon.exe"
+            ],
+            "hash": "4be7baed1fbf077481c05eded6f227b4e3fd243b9e0b07a5a2269c7658471de3"
+        }
+    },
+    "homepage": "https://github.com/hightemp/smpmon",
+    "license": "MIT",
+    "description": "A configurable terminal resource monitor with dashboards and graphs."
+}
