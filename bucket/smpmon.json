@@ -1,19 +1,19 @@
 {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hightemp/smpmon/releases/download/v2.0.0/smpmon_2.0.0_windows_amd64.zip",
+            "url": "https://github.com/hightemp/smpmon/releases/download/v2.1.0/smpmon_2.1.0_windows_amd64.zip",
             "bin": [
                 "smpmon.exe"
             ],
-            "hash": "a3f00bdd87b3d472be07d59b070a1110e5f1028ec628d0910fbe3b12f9f356c7"
+            "hash": "5f510bc77002f6e5f82389d6d4539403dc47190e5f0028caad26d9bf006526ec"
         },
         "arm64": {
-            "url": "https://github.com/hightemp/smpmon/releases/download/v2.0.0/smpmon_2.0.0_windows_arm64.zip",
+            "url": "https://github.com/hightemp/smpmon/releases/download/v2.1.0/smpmon_2.1.0_windows_arm64.zip",
             "bin": [
                 "smpmon.exe"
             ],
-            "hash": "145375443db1e015c3527f0d007552603839cc4fc7f6c12ceff60f056529ec25"
+            "hash": "ab67b966b54ceb76dd560a13395ee348740c6d4ebb36460643833afb17ee97b9"
         }
     },
     "homepage": "https://github.com/hightemp/smpmon",
